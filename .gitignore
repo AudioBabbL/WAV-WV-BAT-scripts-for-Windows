@@ -1,0 +1,5 @@
+*.reg
+.DS_Store
+Thumbs.db
+*.wv
+*.wav

@@ -2,7 +2,8 @@
 
 Batch scripts for converting between **WAV** and **WavPack (`.wv`)** using [ffmpeg](https://ffmpeg.org/) on Windows.
 
-## Disclaimer: these scripts are specifically for my own use-case working in REAPER:
+# Disclaimer: 
+## These scripts are specifically for my own use-case working in REAPER:
 
 - I record at 32bit Floating Point (48khz) WAV
 - Therefore these scritps assume that as the input format
